@@ -153,7 +153,7 @@ The General Manager of the Chicago Bulls has offered you a contract to play for 
 One month later..
 == NBA ==
 ~ {time = 4}
-You are now about to play against the New York Knicks in your first NBA game. You have successfully completed your journey towards achieving a better life. Your hard work has paid off. Good luck.
+You are now about to play against the New York Knicks in your first NBA game. You have successfully completed your journey towards achieving a better life. Your hard work has paid off. 
 + [Play the New York Knicks] -> NBA
 -> END
 
